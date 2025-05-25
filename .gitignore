@@ -11,3 +11,8 @@ wheels/
 
 # intelliJ files
 .idea/
+
+# misc / os files
+__pycache__/
+.ruff_cache
+.DS_Store
