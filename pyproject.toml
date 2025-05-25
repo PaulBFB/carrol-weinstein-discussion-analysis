@@ -12,5 +12,6 @@ dependencies = [
     "ollama>=0.4.8",
     "pandas>=2.2.3",
     "playwright>=1.52.0",
+    "seaborn>=0.13.2",
     "tqdm>=4.67.1",
 ]
