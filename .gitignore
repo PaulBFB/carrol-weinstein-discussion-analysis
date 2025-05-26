@@ -16,3 +16,6 @@ wheels/
 __pycache__/
 .ruff_cache
 .DS_Store
+codebase.txt
+
+
